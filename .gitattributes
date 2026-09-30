@@ -1,0 +1,13 @@
+# Configuration for git attributes
+# Text file normalization   
+*.js linguist-detectable
+*.htm linguist-vendored
+
+*.md linguist-documentation
+
+go.sum linguist-generated
+node_modules/* linguist-vendored
+
+*.html linguist-vendored
+
+src/**/*.js linguist-detectable
