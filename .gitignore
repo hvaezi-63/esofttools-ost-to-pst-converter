@@ -1,0 +1,6 @@
+coverage/
+*.log
+.env
+.next/
+dist/
+_site/
